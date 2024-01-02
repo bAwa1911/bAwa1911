@@ -1,0 +1,15 @@
+p:first-of-type {
+  font: 0.17em/1.33 Verdana, sans-serif;
+}
+There is something special going on here. It is what is called a short-hand property. So instead of writing out:
+
+p:first-of-type {
+  font-size: 0.17em;
+  line-height: 1.33;
+  font-family: Verdana, sans-serif;
+}
+You can write just one line:
+
+p:first-of-type {
+  font: 0.17em/1.33 Verdana, sans-serif;
+}
