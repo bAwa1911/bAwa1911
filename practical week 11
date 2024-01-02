@@ -6,3 +6,5 @@
 [data-theme="dark"] {
      --primary-color: rgb(0, 0, 0);
  }
+ h1 {font-size: 1.33em;}
+  h2 {font-size: 1.17em;}
