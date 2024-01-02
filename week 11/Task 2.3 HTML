@@ -1,0 +1,6 @@
+h1, h2 {margin: 10pt 0 2pt 0;}
+If we want the spacing to scale with the font, we would write the rule as
+
+h1, h2 {margin: 0.83em 0 0.17em 0; }
+0.83em = 10/12
+0.17em = 2/12 Together, 0.83 + 0.17 = 1 = 12pt
