@@ -10,4 +10,10 @@ Table of contents
 1.4. 4. Dynamic Heading Update
 1.5. 5. Storing Data in the Page Storage
 2. 
+:root {
+    --primary-color: rgb(255, 255, 255);
+}
 
+[data-theme="dark"] {
+     --primary-color: rgb(0, 0, 0);
+ }
