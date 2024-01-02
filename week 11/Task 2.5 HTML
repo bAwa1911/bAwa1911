@@ -1,0 +1,7 @@
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+Preferred
+
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" title="Basic" />
+Alternate
+
+<link rel="alternate stylesheet" type="text/css" href="style.css" media="screen" title="Basic" />
